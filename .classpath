@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/workspace/simple-slack-api-master/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/simple-slack-api-master/javax.websocket-api-1.0-rc4.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/simple-slack-api-master/tyrus-standalone-client-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/simple-slack-api-master/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/simple-slack-api-master/httpclient-osgi-4.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/simple-slack-api-master/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/simple-slack-api-master/nlog4j-1.2.14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
